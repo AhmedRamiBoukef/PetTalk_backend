@@ -1,6 +1,0 @@
-flask 
-json
-base64
-open_cv
-onnxruntime
-numpy
